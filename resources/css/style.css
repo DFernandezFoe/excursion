@@ -1,15 +1,35 @@
 h1 {
   text-align: center;
   font-family: verdana;
-  font-weight: normal;
+  font-weight: bold;
   font-size: 50px;
   color: white;
 }
 
+  h2 {
+    font-family: verdana;
+    font-weight: bold;
+    font-size: 42px;
+    color: white;
+  }
+
 a {
   text-align: center;
+  font-weight: bold;
   font-size: 16px;
   color: Aquamarine
+}
+
+#footer {
+  text-align: right;
+  font-size: 30px;
+  color: gray;
+}
+
+.subhead {
+  font-family: verdana;
+  font-size: 21px;
+  color: gray;
 }
 
 body {
